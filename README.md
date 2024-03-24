@@ -15,9 +15,7 @@
   </a>
 </p>
 
-<video id="player_1057295837_html5_api" class="vjs-tech" preload="auto" poster="/wp-content/uploads/2023/02/bill-cipher-gravity-falls-thumb-728x410.jpg" playsinline="playsinline" data-setup="{&quot;playbackRates&quot;: [0.5, 1, 1.5, 2, 4]}" tabindex="-1" role="application" src="https://static.moewalls.com/videos/preview/2023/bill-cipher-gravity-falls-preview.mp4">
-<source src="https://static.moewalls.com/videos/preview/2023/bill-cipher-gravity-falls-preview.mp4" label="" type="video/mp4">
-</video>
+
 
 <!--
 **SalahSen/SalahSen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
